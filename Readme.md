@@ -38,4 +38,4 @@ Este repositório é de uso livre para aprendizado. Caso utilize algum material,
 ---
 📩 Dúvidas ou sugestões? Entre em contato!
 
-🔗 [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)  |  📧 seuemail@example.com
+🔗 [Seu LinkedIn](https://www.linkedin.com/in/vitorcaetanodev)  |  📧 vitorcaetanodev@gmail.com
