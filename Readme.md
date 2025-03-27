@@ -19,7 +19,7 @@ As apostilas abordam diversos tópicos essenciais para o desenvolvimento .NET, i
 
 1. Faça o clone do repositório:
    ```sh
-   git clone https://github.com/seu-usuario/apostilas-dotnet.git
+   git clone https://github.com/vitorcaetanodev/apostilas-dotnet.git
    ```
 2. Acesse a pasta do repositório:
    ```sh
